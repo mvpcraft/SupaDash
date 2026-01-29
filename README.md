@@ -58,8 +58,8 @@ Create new project at [supabase.com](https://supabase.com/) and go to Settings->
 ### Clone the repo
 
 ```bash
-git clone https://github.com/xulioc/sveltekit-supabase-dashboard.git
-cd sveltekit-supabase-dashboard
+git clone https://github.com/mvpcraft/SupaDash.git
+cd SupaDash
 ```
 
 ### Setup environment variables
@@ -106,14 +106,6 @@ npm run preview
 
 To deploy to Vercel please follow instructions [here](https://vercel.com/guides/deploying-svelte-with-vercel).
 
-## Development
-
-Find more development details [here](https://github.com/xulioc/sveltekit-supabase-dashboard/blob/main/README_DEV.md).
-
 ## Contribute
 
 Feel free to contribute. Issues and Pull Requests are welcome.
-
-## License
-
-[MIT](https://github.com/xulioc/sveltekit-supabase-dashboard/blob/main/LICENSE)
